@@ -1,2 +1,3 @@
 let g:spf13_no_fastTabs = 1
+let g:spf13_keep_trailing_whitespace = 1
 

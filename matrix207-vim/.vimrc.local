@@ -73,7 +73,3 @@ setlocal dictionary+=~/.vim/dict/wordsEn.txt
 
 set scrolloff=0                 " Minimum lines to keep above and below cursor
 inoremap jj <ESC>
-noremap <leader>n :bn<CR>
-noremap <leader>p :bp<CR>
-noremap <leader>b :b#<CR>
-
